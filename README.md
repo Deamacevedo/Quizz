@@ -55,6 +55,7 @@ Pares de primos gemelos encontrados:
 (3, 5), (5, 7), (11, 13), (17, 19), (29, 31), (41, 43), (47, 49)
 ```
 
-## Autores
+## Authors
 
-- Desarrollado por **Dylan Acevedo**
+- Developed by **Dylan Acevedo**
+
